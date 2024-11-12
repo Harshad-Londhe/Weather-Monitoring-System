@@ -1,0 +1,25 @@
+.weather-display {
+    text-align: center;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.weather-display h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.weather-info p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+/* In App.css or a new loading.css file */
+.loading {
+    text-align: center;
+    font-size: 20px;
+    color: #007bff;
+    margin-top: 20px;
+}
